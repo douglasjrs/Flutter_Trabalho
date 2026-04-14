@@ -1,17 +1,11 @@
-# flutter_trabalho
+Integrantes:
+Douglas José R. de Souza - 166128-2024
+Raul de Oliveira Crispim - 160345-2023
 
-A new Flutter project.
+Projeto: Cadastro de usuários com email. Cadastra usuários com as informações descritas anteriormente.
+API Utilizada: MockAPI.io - https://mockapi.io
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Instruções:
+No terminal da pasta: executar flutter pub get -> flutter run 
+OU
+No browser: Link Vercel - https://fluttertrabalhousuarios.vercel.app/
